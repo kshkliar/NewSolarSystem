@@ -3,8 +3,9 @@ package com.company;
 public class featureSun {
 
     String heat;
-    String temp;
+    int temp;
    String radius;
     String color;
     String maritalStatus;
+    //some changes
 }

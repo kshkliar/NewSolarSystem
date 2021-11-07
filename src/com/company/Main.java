@@ -18,11 +18,20 @@ public class Main {
         mikesun.maritalStatus="in love with asghar";
 
 
+        //Planet2 features
+        Planet2 bastranout =new Planet2();
+        bastranout.color="pink";
+        bastranout.size="343433433km";
+        bastranout.status="same as MIKE's";
+
+
+
         //adding planet 1 features
         planet1 astranout= new planet1();
         astranout.color="grey";
         astranout.realtionshipStatus="single";
         astranout.size="9989898989km";
+
 
     }
 }

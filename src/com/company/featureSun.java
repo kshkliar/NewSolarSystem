@@ -7,4 +7,7 @@ public class featureSun {
    String radius;
     String color;
     String maritalStatus;
+    //some changes
+
+    //issue is resolved
 }

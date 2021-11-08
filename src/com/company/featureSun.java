@@ -8,4 +8,6 @@ public class featureSun {
     String color;
     String maritalStatus;
     //some changes
+
+    //issue is resolved
 }

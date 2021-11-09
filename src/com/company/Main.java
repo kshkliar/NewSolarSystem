@@ -31,8 +31,12 @@ public class Main {
         astranout.color="grey";
         astranout.realtionshipStatus="single";
         astranout.size="9989898989km";
-//Planet2
+
+
         
+
+//adding planet1 features;ffd
+
 
     }
 }
